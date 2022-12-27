@@ -4,10 +4,8 @@
   "useTabs": false,
   "semi": false,
   "singleQuote": true,
-  "trailingComma": "all",
+  "trailingComma": "none",
   "bracketSpacing": true,
   "jsxBracketSameLine": false,
-  "arrowParens": "always",
-  "proseWrap": "always",
-  "htmlWhitespaceSensitivity": "ignore",
+  "arrowParens": "always"
 }
